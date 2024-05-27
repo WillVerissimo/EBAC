@@ -47,7 +47,7 @@ b) branco == cinza = false
 c) carro === branco = false
 d) var cavalo = carro == “preto” ? “cinza” : “marron”; = "cinza"
 e) Quantas prestações são necessárias para pagar o valor do carro com uma entrada
-de 3.000? Demonstre a operação. = (valor - 3000) / prestacao = 36
+de 3.000? Demonstre a operação. = (valor - 3000) / prestacao == 36
 f) Somando as variáveis de cores é formada uma string de quantos caracteres? =
 let somacor = branco + preto + cinza
 let soma = somacor.length
