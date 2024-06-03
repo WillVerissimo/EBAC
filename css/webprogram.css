@@ -1,3 +1,21 @@
 body{
     text-align: center;
+    font-family: sans-serif;
+}
+
+.botao{
+    border-radius: 10%;
+}
+
+#minhadiv{
+    margin: 30px auto 0px auto;
+    width: 80%;
+    height: 200px;
+    background: blue;
+}
+
+#campoTexto{
+    padding: 50px;
+    font-size: 25px;
+    margin-top: 30px;
 }
