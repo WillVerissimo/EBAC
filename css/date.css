@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+select{
+    border-radius: 5%;
+    padding: 15px;
+    font-size: 15px;
+}
+
+button{
+    margin-top: 20px;
+}
