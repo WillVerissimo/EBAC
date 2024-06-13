@@ -1,4 +1,5 @@
 function comecarContagem() {
+    document.getElementById("contagem").innerHTML = 0;
     soma = document.getElementById("contagem").innerHTML;
     document.getElementById("texto").innerHTML = "Início da contagem"; 
     document.getElementById("ativar").disabled = true;   
@@ -16,5 +17,4 @@ function pararContagem() {
     document.getElementById("texto").innerHTML = "Fim da contagem";
     clearInterval(tempo);
     document.getElementById("ativar").disabled = false;
-    document.getElementById("contagem").innerHTML = 0;
 }
